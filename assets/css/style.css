@@ -1873,11 +1873,11 @@ body {
   left: 0;
   height: 50%;
   width: 100%;
-  background-color: #fffcfc;
+  
   z-index: -1;
 }
 .newsletter {
-  background-color: #fff;
+  
   padding-left: 15px;
   padding-right: 15px;
 }
@@ -1893,7 +1893,7 @@ body {
   left: 0;
   height: 17px;
   width: 17px;
-  background-color: #fff6f6;
+  
 }
 .newsletter .checkbox-cover label span.checkmark:after {
   content: "";
