@@ -435,7 +435,6 @@ body {
 .section-title h2 {
   display: inline;
   font-size: 36px;
-  color: #232323;
   font-weight: 700;
   background-image: -webkit-linear-gradient(bottom, #ffdfdf 25%, transparent 0);
   background-image: linear-gradient(0deg, #ffdfdf 25%, transparent 0);
@@ -3338,7 +3337,7 @@ blockquote cite {
   color: #fff;
 }
 .footer-container {
-  background-color: #fffcfc;
+  
   padding: 40px 0;
 }
 @media only screen and (max-width: 991px) {
