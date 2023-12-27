@@ -2272,6 +2272,7 @@ body {
   }
 }
 .post-details-cover .post-content-cover p {
+  color: white;
   margin-bottom: 20px;
   line-height: 1.66;
 }
